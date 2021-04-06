@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniciusDorlitz
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning HTML,CSS,PHP
+- 🌱 I’m currently learning HTML,CSS,PHP, SQL server e My SQL
 - 📫 How to reach me viniciusdorlitz@gmail.com
 
 <!---
