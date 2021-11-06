@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniciusDorlitz
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me viniciusdorlitz@gmail.com
 
 <!---
